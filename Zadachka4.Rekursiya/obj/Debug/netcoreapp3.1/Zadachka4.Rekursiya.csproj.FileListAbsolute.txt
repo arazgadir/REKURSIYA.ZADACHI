@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\ConsoleApp1\Zadachka4.Rekursiya\bin\Debug\netcoreapp3.1\Zadachka4.Rekursiya.exe
+C:\Users\Lenovo\source\repos\ConsoleApp1\Zadachka4.Rekursiya\bin\Debug\netcoreapp3.1\Zadachka4.Rekursiya.deps.json
+C:\Users\Lenovo\source\repos\ConsoleApp1\Zadachka4.Rekursiya\bin\Debug\netcoreapp3.1\Zadachka4.Rekursiya.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ConsoleApp1\Zadachka4.Rekursiya\bin\Debug\netcoreapp3.1\Zadachka4.Rekursiya.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\ConsoleApp1\Zadachka4.Rekursiya\bin\Debug\netcoreapp3.1\Zadachka4.Rekursiya.dll
+C:\Users\Lenovo\source\repos\ConsoleApp1\Zadachka4.Rekursiya\bin\Debug\netcoreapp3.1\Zadachka4.Rekursiya.pdb
+C:\Users\Lenovo\source\repos\ConsoleApp1\Zadachka4.Rekursiya\obj\Debug\netcoreapp3.1\Zadachka4.Rekursiya.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ConsoleApp1\Zadachka4.Rekursiya\obj\Debug\netcoreapp3.1\Zadachka4.Rekursiya.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ConsoleApp1\Zadachka4.Rekursiya\obj\Debug\netcoreapp3.1\Zadachka4.Rekursiya.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ConsoleApp1\Zadachka4.Rekursiya\obj\Debug\netcoreapp3.1\Zadachka4.Rekursiya.dll
+C:\Users\Lenovo\source\repos\ConsoleApp1\Zadachka4.Rekursiya\obj\Debug\netcoreapp3.1\Zadachka4.Rekursiya.pdb
+C:\Users\Lenovo\source\repos\ConsoleApp1\Zadachka4.Rekursiya\obj\Debug\netcoreapp3.1\Zadachka4.Rekursiya.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\ConsoleApp1\Zadachka4.Rekursiya\obj\Debug\netcoreapp3.1\Zadachka4.Rekursiya.csprojAssemblyReference.cache
