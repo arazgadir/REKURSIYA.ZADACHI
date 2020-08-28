@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Zadacha3.Rekursiya/1.0.0": {
+        "runtime": {
+          "Zadacha3.Rekursiya.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadacha3.Rekursiya/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
